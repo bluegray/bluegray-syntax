@@ -1,0 +1,17 @@
+{
+  "name": "bluegray-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Modified from Base16 Tomorrow Dark",
+  "keywords": [
+    "syntax",
+    "theme",
+    "base16",
+    "bluegray"
+  ],
+  "repository": "https://github.com/bluegray/bluegray-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
